@@ -1,0 +1,75 @@
+name: AI_Verse
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI/UX & Core Packages
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.4
+  path_provider: ^2.1.5
+  permission_handler: ^11.3.1
+  flutter_dotenv: ^5.1.0 # For managing API keys securely
+
+  # AI Models and NLP
+  flutter_gemini: ^3.0.0
+  groq: ^1.0.0
+  deepseek_client: ^0.0.1 # Updated to latest
+
+  # Audio Handling
+  record: ^5.2.0
+  audioplayers: ^6.1.0
+  cloud_text_to_speech: ^1.1.3
+
+  # Speech and Google APIs
+  google_speech: ^5.3.0
+  google_cloud_translation: ^0.0.4
+  googleapis: ^11.3.0 # For enhanced Google API support
+  googleapis_auth: ^1.4.0
+
+  # Media Handling
+  image_picker: ^1.1.2
+
+  # Regex & Utility
+  flutter_regex: ^0.0.3
+
+  http: ^1.1.0
+  flutter_launcher_icons: ^0.13.1  # Add this line
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/mal.m4a
+    - assets/Logo.png
+    - .env # For storing sensitive API keys
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/LogoTitle.png
+
+  android_12:
+    color: "#ffffff"
+    image: assets/LogoTitle.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/Logo.png"  # Path to your new logo
+  adaptive_icon_background: "#ffffff"  # Background color (optional)
+  adaptive_icon_foreground: "assets/Logo.png"
+
+  
