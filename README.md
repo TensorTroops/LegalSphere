@@ -115,9 +115,8 @@ Built using **Flutter** and **Dart** for a **cross-platform** and **user-friendl
 2. **Sarvam AI**: Converts **speech-to-text (STT)** and **text-to-speech (TTS)** for interaction.
 3. **Gemini Pro**: Analyzes images for legal context.
 4. **BERT**: Generates embeddings from text input for deep semantic understanding.
-5. **GROQ (RAG)**: Retrieves relevant legal information from a **JSON** database.
-6. **DeepSeek**: Processes and refines legal responses.  
-7. **Output**: Provides legal assistance via **text** and **voice**.
+5. **DeepSeek**: Retrieves relevant legal information from a **JSON** database, Processes and refines legal responses.  
+6. **Output**: Provides legal assistance via **text** and **voice**.
 
 ---
 
