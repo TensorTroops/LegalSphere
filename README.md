@@ -2,8 +2,8 @@
 # **LegalSphere**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b65f9cce-e94a-4a4c-8bcf-ea126bebe79b" alt="LegalSphere Logo" width="300">
-  <p><strong>Empowering women to navigate the legal system with AI-powered simplicity.</strong></p>
+  <img src="https://github.com/user-attachments/assets/5b252d06-1535-4f0d-b973-807a4c590e9f" alt="LegalSphere Logo" width="300">
+  <p><strong>Empowering people to navigate the legal system with AI-powered simplicity.</strong></p>
 </div>
 
 ---
