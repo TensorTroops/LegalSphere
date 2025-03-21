@@ -163,19 +163,19 @@ Built using **Flutter** and **Dart** for a **cross-platform** and **user-friendl
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1528f77e-cb3b-43e6-b7ca-8032dca28d2f" alt="VQA Screen" width="300">
+      <img src="https://github.com/user-attachments/assets/877be5c1-812e-4381-8db8-62f7be9b3536" alt="Multilingual Screen" width="300">
       <br>
-      <b>Image (VQA)</b>
+      <b>Multilingual Screen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d987ae35-1c62-4b94-84c5-36768bf4d61f" alt="Doubts Q&A Screen" width="300">
+      <img src="https://github.com/user-attachments/assets/faafcdb9-06f4-4d92-ac86-60aea95badae" alt="VQA" width="300">
       <br>
-      <b>Doubts (Q&A)</b>
+      <b>VQA</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/66e30af0-9a82-496c-b17c-3a853df684c6" alt="MultiLingual Screen" width="300">
+      <img src="https://github.com/user-attachments/assets/dfee1d7e-43ff-46fb-b21b-7ab775896691" alt="Voice" width="300">
       <br>
-      <b>Multilingual Support</b>
+      <b>Voice Assisstant</b>
     </td>
   </tr>
 </table>
