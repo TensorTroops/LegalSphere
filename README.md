@@ -180,3 +180,13 @@ Built using **Flutter** and **Dart** for a **cross-platform** and **user-friendl
 </table>
 
 ---
+
+
+
+# 🏅 Achievement
+
+## 3rd Prize Winner – GenderTech × GenAI Hackathon
+Recognized for innovation in inclusive AI design and multimodal tech solutions.
+- 👥 500+ teams participated across diverse domains
+- 🚀 Our team made it to the Top 10 finalists
+- 🥉 Secured 3rd place overall, standing out for our agentic AI approach and impact-driven execution
