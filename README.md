@@ -125,24 +125,24 @@ Built using **Flutter** and **Dart** for a **cross-platform** and **user-friendl
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" alt="Keerthivasan" width="150">
-      <br>
-      <b><a href="https://github.com/SajeevSenthil">Sajeev Senthil </a></b>
+      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" width="100" alt="Sajeev Senthil" /><br/>
+      <a href="https://github.com/SajeevSenthil"><b>Sajeev Senthil</b></a>
+    </td>
+        <td align="center">
+      <img src="https://avatars.githubusercontent.com/Charuvarthan?s=300" width="100" alt="Charuvarthan" /><br/>
+      <a href="https://github.com/Charuvarthan-T"><b>Charuvarthan</b></a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/SivaPrasanthSivaraj?s=300" alt="Siva Prasanth Sivaraj" width="150">
-      <br>
-      <b><a href="https://github.com/SivaPrasanthSivaraj">Siva Prasanth Sivaraj</a></b>
+      <img src="https://avatars.githubusercontent.com/suganth07?s=300" width="100" alt="Suganth" /><br/>
+      <a href="https://github.com/suganth07"><b>Suganth</b></a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/suganth07?s=300" alt="Suganth" width="150">
-      <br>
-      <b><a href="https://github.com/suganth07">Suganth</a></b>
+      <img src="https://avatars.githubusercontent.com/abiruth29?s=300" width="100" alt="Abiruth" /><br/>
+      <a href="https://github.com/abiruth29"><b>Abiruth</b></a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/Keerthivasan-Venkitajalam?s=300" alt="Keerthivasan" width="150">
-      <br>
-      <b><a href="https://github.com/Keerthivasan-Venkitajalam">Keerthivasan S V </a></b>
+      <img src="https://avatars.githubusercontent.com/SivaPrasanthSivaraj?s=300" width="100" alt="Siva Prasanth Sivaraj" /><br/>
+      <a href="https://github.com/SivaPrasanthSivaraj"><b>Siva Prasanth Sivaraj</b></a>
     </td>
   </tr>
 </table>
